@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="193281045066462"
+    token="6711639899673056491"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4821" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1291" />
+    <task
+        name="verifier"
+        duration="302" />
+
+    <artifact
+        location="C:\laragon\www\Defi\ujikom-2017\Android\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="193281045066462"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\laragon\www\Defi\ujikom-2017\Android\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

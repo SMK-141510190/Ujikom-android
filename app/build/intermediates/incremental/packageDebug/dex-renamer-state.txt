@@ -1,0 +1,7 @@
+#Fri Feb 24 19:18:32 ICT 2017
+base.0=C\:\\laragon\\www\\Defi\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e053c079ce5ef87859f9626df578e8da02f86d85
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\laragon\\www\\Defi\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52307a3d8f58094153f2ea69f6fcf2d513d4248c\\classes.dex
+base.1=C\:\\laragon\\www\\Defi\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52307a3d8f58094153f2ea69f6fcf2d513d4248c
+file.0=C\:\\laragon\\www\\Defi\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e053c079ce5ef87859f9626df578e8da02f86d85\\classes.dex
